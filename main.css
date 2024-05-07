@@ -1,0 +1,14 @@
+body {
+    background-color: crimson;
+    }
+    
+    .col, .mb-3 {
+        color:aliceblue;
+    }
+    
+    .container h1 {
+        padding: 8px;
+        text-align: center;
+    }
+    
+    
